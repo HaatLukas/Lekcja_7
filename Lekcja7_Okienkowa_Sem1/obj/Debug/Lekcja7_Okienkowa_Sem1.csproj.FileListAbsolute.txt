@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\bin\Debug\Lekcja7_Okienkowa_Sem1.exe.config
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\bin\Debug\Lekcja7_Okienkowa_Sem1.exe
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\bin\Debug\Lekcja7_Okienkowa_Sem1.pdb
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.Zgadywanka.resources
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.Properties.Resources.resources
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.exe
+C:\Users\Asus\Desktop\Lekcja7_Okienkowa_Sem1\obj\Debug\Lekcja7_Okienkowa_Sem1.pdb
